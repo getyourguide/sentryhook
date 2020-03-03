@@ -1,4 +1,4 @@
-module github.com/makasim/sentryhook
+module github.com/getyourguide/sentryhook
 
 go 1.13
 

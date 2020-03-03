@@ -10,7 +10,7 @@ import (
   "github.com/sirupsen/logrus"
   "github.com/getsentry/sentry-go"
 
-  "github.com/makasim/sentryhook"
+  "github.com/getyourguide/sentryhook"
 )
 
 func main() {
@@ -32,7 +32,7 @@ import (
   "github.com/sirupsen/logrus"
   "github.com/getsentry/sentry-go"
 
-  "github.com/makasim/sentryhook"
+  "github.com/getyourguide/sentryhook"
 )
 
 func main() {
